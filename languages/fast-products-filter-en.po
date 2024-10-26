@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-10-18 16:49+0500\n"
+"PO-Revision-Date: 2024-10-18 17:04+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-ajax-filter.php:59
+msgid "<strong>Fast WooCommerce Ajax Filter</strong> is an add-on of "
+msgstr ""
+
+#: includes/class-ajax-filter.php:60
+msgid "Please install WooCommerce and then install this plugin."
+msgstr ""
+
+#: includes/class-ajax-filter.php:436 includes/class-filters-frontend.php:319
+#: includes/class-filters-frontend.php:334
+msgid "Price Filter"
+msgstr ""
+
+#: includes/class-ajax-filter.php:473
+msgid "No posts found."
+msgstr ""
+
+#: includes/class-ajax-filter.php:520 includes/class-ajax-filter.php:597
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: includes/class-ajax-filter.php:556
+msgid "no posts."
+msgstr ""
+
+#: includes/class-filters-frontend.php:277
+msgid "Please add taxonomies/attributes to filter."
+msgstr ""
+
+#: includes/class-settings-license.php:16
+msgid "License key"
+msgstr ""
+
+#: includes/class-settings-query.php:9
+msgid "Query Section"
+msgstr ""
+
+#: includes/class-settings-query.php:27
+msgid "Slider min price"
+msgstr ""
+
+#: includes/class-settings-query.php:37
+msgid "Slider max price"
+msgstr ""
+
+#: includes/class-settings-query.php:47
+msgid "Query type"
+msgstr ""
+
+#: includes/class-settings-sorting.php:14
+#: includes/class-settings-sorting.php:22 includes/plugin-options.php:112
+msgid "Filters Order"
+msgstr ""
+
+#: includes/class-settings-sorting.php:30
+msgid "Filters Saved"
+msgstr ""
+
+#: includes/class-settings-sorting.php:69
+msgid "Available Taxonomies"
+msgstr ""
+
+#: includes/class-settings-sorting.php:70
+msgid "Add items from available options by clicking on + sign."
+msgstr ""
+
+#: includes/class-settings-sorting.php:85
+msgid "Filter Taxonomies"
+msgstr ""
+
+#: includes/class-settings-sorting.php:86
+msgid "Sort items in desired order by click and drag up/down."
+msgstr ""
+
+#: includes/class-settings-sorting.php:87
+msgid "Don't forget to save settings after adding items."
+msgstr ""
+
+#: includes/class-settings-styles.php:15 includes/plugin-options.php:113
+msgid "Filters Styles"
+msgstr ""
+
+#: includes/class-settings-styles.php:44 includes/class-settings-styles.php:50
+msgid "Collapsable Menus"
+msgstr ""
+
+#: includes/class-settings-styles.php:98
+msgid "Filter options style"
+msgstr ""
+
+#: includes/class-settings-styles.php:116
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/fwf-plugin-activator.php:36
+msgid "<strong>Fast Ajax Filters for WooCommerce</strong> is an add-on of "
+msgstr ""
+
+#: includes/plugin-options.php:54 includes/plugin-options.php:55
+msgid "Fast Ajax Filters"
+msgstr ""
+
+#: includes/plugin-options.php:65 includes/plugin-options.php:66
+msgid "FIlters Order"
+msgstr ""
+
+#: includes/plugin-options.php:74 includes/plugin-options.php:75
+msgid "FIlters Style"
+msgstr ""
+
+#: includes/plugin-options.php:83 includes/plugin-options.php:84
+msgid "FIlters Query"
+msgstr ""
+
+#: includes/plugin-options.php:111
+msgid "Attributes Settings"
+msgstr ""
+
+#: includes/plugin-options.php:114
+msgid "Filters Query"
+msgstr ""
+
+#: includes/plugin-options.php:115
+msgid "License"
+msgstr ""
+
+#: includes/plugin-options.php:124
+msgid "Select attributes to include in filters."
+msgstr ""
+
+#: includes/plugin-options.php:169
+msgid "Categories Section"
+msgstr ""
+
+#: includes/plugin-options.php:228 templates/template-accordion-filters.php:14
+#: templates/template-mobile-filters.php:13
+#: templates/template-simple-filters.php:12
+msgid "Categories"
+msgstr ""
+
+#: includes/plugin-options.php:234
+msgid "Include Categories"
+msgstr ""
+
+#: templates/template-accordion-filters.php:4
+#: templates/template-mobile-filters.php:6
+#: templates/template-simple-filters.php:5
+msgid "Clear Filters"
+msgstr ""
+
+#: templates/template-accordion-filters.php:20
+msgid "Price"
+msgstr ""
+
+#: update/fwf-update.php:63
+msgid "Fast Ajax Filter License Error:"
+msgstr ""
+
+#: update/fwf-update.php:64
+msgid "Invalid license key."
+msgstr ""

@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-10-18 16:49+0500\n"
+"PO-Revision-Date: 2024-10-18 17:44+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-ajax-filter.php:59
+msgid "<strong>Fast WooCommerce Ajax Filter</strong> is an add-on of "
+msgstr "<strong>Fast WooCommerce Ajax Filter</strong> هو إضافة لـ"
+
+#: includes/class-ajax-filter.php:60
+msgid "Please install WooCommerce and then install this plugin."
+msgstr "الرجاء تثبيت WooCommerce ثم تثبيت هذا البرنامج المساعد."
+
+#: includes/class-ajax-filter.php:436 includes/class-filters-frontend.php:319
+#: includes/class-filters-frontend.php:334
+msgid "Price Filter"
+msgstr "فلتر الأسعار"
+
+#: includes/class-ajax-filter.php:473
+msgid "No posts found."
+msgstr "لم يتم العثور على أي مشاركات."
+
+#: includes/class-ajax-filter.php:520 includes/class-ajax-filter.php:597
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr "عرض النتيجة الوحيدة"
+
+#: includes/class-ajax-filter.php:556
+msgid "no posts."
+msgstr "لا يوجد مشاركات."
+
+#: includes/class-filters-frontend.php:277
+msgid "Please add taxonomies/attributes to filter."
+msgstr "يرجى إضافة التصنيفات/السمات للتصفية."
+
+#: includes/class-settings-license.php:16
+msgid "License key"
+msgstr "مفتاح الترخيص"
+
+#: includes/class-settings-query.php:9
+msgid "Query Section"
+msgstr "قسم الاستعلام"
+
+#: includes/class-settings-query.php:27
+msgid "Slider min price"
+msgstr "الحد الأدنى لسعر الشريحة"
+
+#: includes/class-settings-query.php:37
+msgid "Slider max price"
+msgstr "السعر الأقصى للمتزلج"
+
+#: includes/class-settings-query.php:47
+msgid "Query type"
+msgstr "نوع الاستعلام"
+
+#: includes/class-settings-sorting.php:14
+#: includes/class-settings-sorting.php:22 includes/plugin-options.php:112
+msgid "Filters Order"
+msgstr "ترتيب الفلاتر"
+
+#: includes/class-settings-sorting.php:30
+msgid "Filters Saved"
+msgstr "المرشحات المحفوظة"
+
+#: includes/class-settings-sorting.php:69
+msgid "Available Taxonomies"
+msgstr "التصنيفات المتاحة"
+
+#: includes/class-settings-sorting.php:70
+msgid "Add items from available options by clicking on + sign."
+msgstr "قم بإضافة العناصر من الخيارات المتاحة بالضغط على علامة +."
+
+#: includes/class-settings-sorting.php:85
+msgid "Filter Taxonomies"
+msgstr "تصنيفات الفلتر"
+
+#: includes/class-settings-sorting.php:86
+msgid "Sort items in desired order by click and drag up/down."
+msgstr "قم بفرز العناصر بالترتيب المطلوب عن طريق النقر والسحب لأعلى/لأسفل."
+
+#: includes/class-settings-sorting.php:87
+msgid "Don't forget to save settings after adding items."
+msgstr "لا تنسى حفظ الإعدادات بعد إضافة العناصر."
+
+#: includes/class-settings-styles.php:15 includes/plugin-options.php:113
+msgid "Filters Styles"
+msgstr "أنماط المرشحات"
+
+#: includes/class-settings-styles.php:44 includes/class-settings-styles.php:50
+msgid "Collapsable Menus"
+msgstr "القوائم القابلة للطي"
+
+#: includes/class-settings-styles.php:98
+msgid "Filter options style"
+msgstr "نمط خيارات الفلتر"
+
+#: includes/class-settings-styles.php:116
+msgid "Taxonomy"
+msgstr "التصنيف"
+
+#: includes/fwf-plugin-activator.php:36
+msgid "<strong>Fast Ajax Filters for WooCommerce</strong> is an add-on of "
+msgstr "<strong>Fast Ajax Filters for WooCommerce</strong> عبارة عن إضافة لـ"
+
+#: includes/plugin-options.php:54 includes/plugin-options.php:55
+msgid "Fast Ajax Filters"
+msgstr "Fast Ajax Filters"
+
+#: includes/plugin-options.php:65 includes/plugin-options.php:66
+msgid "FIlters Order"
+msgstr "ترتيب المرشحات"
+
+#: includes/plugin-options.php:74 includes/plugin-options.php:75
+msgid "FIlters Style"
+msgstr "نمط المرشحات"
+
+#: includes/plugin-options.php:83 includes/plugin-options.php:84
+msgid "FIlters Query"
+msgstr "استعلام المرشحات"
+
+#: includes/plugin-options.php:111
+msgid "Attributes Settings"
+msgstr "إعدادات السمات"
+
+#: includes/plugin-options.php:114
+msgid "Filters Query"
+msgstr "استعلام المرشحات"
+
+#: includes/plugin-options.php:115
+msgid "License"
+msgstr "رخصة"
+
+#: includes/plugin-options.php:124
+msgid "Select attributes to include in filters."
+msgstr "حدد السمات التي تريد تضمينها في المرشحات."
+
+#: includes/plugin-options.php:169
+msgid "Categories Section"
+msgstr "قسم الفئات"
+
+#: includes/plugin-options.php:228 templates/template-accordion-filters.php:14
+#: templates/template-mobile-filters.php:13
+#: templates/template-simple-filters.php:12
+msgid "Categories"
+msgstr "فئات"
+
+#: includes/plugin-options.php:234
+msgid "Include Categories"
+msgstr "تضمين الفئات"
+
+#: templates/template-accordion-filters.php:4
+#: templates/template-mobile-filters.php:6
+#: templates/template-simple-filters.php:5
+msgid "Clear Filters"
+msgstr "مسح المرشحات"
+
+#: templates/template-accordion-filters.php:20
+msgid "Price"
+msgstr "سعر"
+
+#: update/fwf-update.php:63
+msgid "Fast Ajax Filter License Error:"
+msgstr "خطأ في ترخيص Fast Ajax Filter:"
+
+#: update/fwf-update.php:64
+msgid "Invalid license key."
+msgstr "مفتاح الترخيص غير صالح."
